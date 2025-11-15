@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Starblast Survival Chatbox
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0
 // @description  For coordination in survival and team mode
 // @author       Xixioso
 // @license      Proprietary
