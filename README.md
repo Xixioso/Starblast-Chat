@@ -1,1 +1,1 @@
-# Starblast-Chat
+# Starblast-Chat browser version
