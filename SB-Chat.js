@@ -6,8 +6,8 @@
 // @author       Xixioso
 // @license      Proprietary
 // @match        https://starblast.io/*
-// @updateURL    https://raw.githubusercontent.com/Xixioso/Starblast-Chat/main/SB-Chat
-// @downloadURL  https://raw.githubusercontent.com/Xixioso/Starblast-Chat/main/SB-Chat
+// @updateURL    https://raw.githubusercontent.com/Xixioso/Starblast-Chat/main/SB-Chat.js
+// @downloadURL  https://raw.githubusercontent.com/Xixioso/Starblast-Chat/main/SB-Chat.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
